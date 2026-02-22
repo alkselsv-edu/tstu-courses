@@ -40,7 +40,7 @@
 
 ## 📒 Дополнительные материалы
 
-| № Название | Ссылка |
+| Название | Ссылка |
 | ---------- | --------- |
 | JavaScript: Настройка окружения | https://bit.ly/3UD93tU |
 | Установка ВМ с Linux и подключение VS Code|https://bit.ly/4rnrr7v|
@@ -54,15 +54,15 @@
 
 ## ✏️ Домашние задания
 
-| Задание | Описание | Дедлайн №1 | Дедлайн №2 | Форма загрузки |
+| Задание | Ссылка | Дедлайн №1 | Дедлайн №2 | Форма загрузки |
 | --------- | -------- | ------------- | ------------- | ------------------------- |
-| Задание №1 | https://code-basics.com/ru/languages/javascript | | | |
-| Задание №2 | https://github.com/alkselsv-edu/js-arrays-task | | | |
-| Задание №3 | https://github.com/alkselsv-edu/js-objects-tasks | | | |
-| Задание №4 | https://github.com/alkselsv-edu/js-functions-tasks | | | |
-| Задание №5 | https://github.com/alkselsv-edu/js-introduction-to-oop-tasks | | | |
-| Задание №6 | https://github.com/alkselsv-edu/js-asynchronous-programming-tasks | | | |
-| Задание №7 | https://github.com/alkselsv-edu/http-protocol-tasks | | | |
-| Задание №8 | https://github.com/alkselsv-edu/js-dom-tasks | | | |
-| Задание №9 | https://github.com/alkselsv-edu/js-frontend-architecture-tasks | | | |
-| Задание №10 | https://code-basics.com/ru/languages/typescript | | | |
+| Задание №1 | https://code-basics.com/ru/languages/javascript | | |https://forms.yandex.ru/u/699b3e4dd046887ca3b7e39d|
+| Задание №2 | https://github.com/alkselsv-edu/js-arrays-task | | |https://forms.yandex.ru/u/699b3e8b1f1eb5135e198016|
+| Задание №3 | https://github.com/alkselsv-edu/js-objects-tasks | | |https://forms.yandex.ru/u/699b3e986d2d731700a9f87e|
+| Задание №4 | https://github.com/alkselsv-edu/js-functions-tasks | | |https://forms.yandex.ru/u/699b3eb65056901751657108|
+| Задание №5 | https://github.com/alkselsv-edu/js-introduction-to-oop-tasks | | |https://forms.yandex.ru/u/699b3ec6eb6146d963790b2f|
+| Задание №6 | https://github.com/alkselsv-edu/js-asynchronous-programming-tasks | | |https://forms.yandex.ru/u/699b3ed102848ff0b96f9434|
+| Задание №7 | https://github.com/alkselsv-edu/http-protocol-tasks | | |https://forms.yandex.ru/u/699b3edd02848ff3876f9403|
+| Задание №8 | https://github.com/alkselsv-edu/js-dom-tasks | | | https://forms.yandex.ru/u/699b3efc1f1eb5123919819e|
+| Задание №9 | https://github.com/alkselsv-edu/js-frontend-architecture-tasks | | |https://forms.yandex.ru/u/699b3f1b6d2d7316aca9f8af|
+| Задание №10 | https://code-basics.com/ru/languages/typescript | | |https://forms.yandex.ru/u/699b3feae010db0f6dac3628|
