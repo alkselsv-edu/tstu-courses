@@ -50,6 +50,7 @@
 | LearnGitBranching | https://learngitbranching.js.org/?locale=ru_RU |
 | JavaScript: Автоматическое тестирование | https://bit.ly/3FXAoRY, https://bit.ly/3FUI0F4 |
 | Протокол HTTP | https://bit.ly/3SO3PKl |
+| Выразительный JavaScript, 3-е издание | https://bit.ly/4c9EQLJ|
 
 
 ## ✏️ Домашние задания
