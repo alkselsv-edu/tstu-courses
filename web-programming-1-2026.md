@@ -55,7 +55,7 @@
 | Задание | Ссылка | Дедлайн №1 | Дедлайн №2 | Форма загрузки |
 |---------|--------|------------|------------|----------------|
 | Задание №1 | https://code-basics.com/ru/languages/javascript | 10.03.2026 | 17.03.2026 | https://forms.yandex.ru/u/699b3e4dd046887ca3b7e39d |
-| Задание №2 | https://github.com/alkselsv-edu/js-arrays-task | | | https://forms.yandex.ru/u/699b3e8b1f1eb5135e198016 |
+| Задание №2 | https://github.com/alkselsv-edu/js-arrays-task | 26.03.2026 | 02.04.2026 | https://forms.yandex.ru/u/699b3e8b1f1eb5135e198016 |
 | Задание №3 | https://github.com/alkselsv-edu/js-objects-tasks | | | https://forms.yandex.ru/u/699b3e986d2d731700a9f87e |
 | Задание №4 | https://github.com/alkselsv-edu/js-functions-tasks | | | https://forms.yandex.ru/u/699b3eb65056901751657108 |
 | Задание №5 | https://github.com/alkselsv-edu/js-introduction-to-oop-tasks | | | https://forms.yandex.ru/u/699b3ec6eb6146d963790b2f |
