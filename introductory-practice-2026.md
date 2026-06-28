@@ -31,18 +31,18 @@
 ## ✏️ Домашние задания
 
 
-| Задание     | Ссылка                                                                                                                                                                                                           |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Задание №1  | [https://github.com/alkselsv-edu/layout-designer-basics-tasks](https://github.com/alkselsv-edu/layout-designer-basics-tasks)                                                                                     |
-| Задание №2  | [https://github.com/alkselsv-edu/css-content-tasks](https://github.com/alkselsv-edu/css-content-tasks)                                                                                                           |
-| Задание №3  | [https://github.com/alkselsv-edu/css-positioning-tasks](https://github.com/alkselsv-edu/css-positioning-tasks)                                                                                                   |
-| Задание №4  | [https://github.com/alkselsv-edu/css-flex-tasks](https://github.com/alkselsv-edu/css-flex-tasks), [https://codingfantasy.com/games/flexboxadventure/play](https://codingfantasy.com/games/flexboxadventure/play) |
-| Задание №5  | [https://github.com/alkselsv-edu/css-adaptive-tasks](https://github.com/alkselsv-edu/css-adaptive-tasks)                                                                                                         |
-| Задание №6  | [https://github.com/alkselsv-edu/css-grid-tasks](https://github.com/alkselsv-edu/css-grid-tasks), [https://codingfantasy.com/games/css-grid-attack](https://codingfantasy.com/games/css-grid-attack)             |
-| Задание №7  | [https://github.com/alkselsv-edu/css-sass-tasks](https://github.com/alkselsv-edu/css-sass-tasks)                                                                                                                 |
-| Задание №8  | [https://github.com/alkselsv-edu/sass-programming-tasks](https://github.com/alkselsv-edu/sass-programming-tasks)                                                                                                 |
-| Задание №9  | [https://github.com/alkselsv-edu/css-transform-tasks](https://github.com/alkselsv-edu/css-transform-tasks)                                                                                                       |
-| Задание №10 | [https://github.com/alkselsv-edu/bootstrap-basic-tasks](https://github.com/alkselsv-edu/bootstrap-basic-tasks)                                                                                                   |
+| Задание     | Ссылка                                                                                                                                                                                                            |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Задание №1  | [https://github.com/alkselsv-edu/layout-designer-basics-tasks](https://github.com/alkselsv-edu/layout-designer-basics-tasks)                                                                                      |
+| Задание №2  | [https://github.com/alkselsv-edu/css-content-tasks](https://github.com/alkselsv-edu/css-content-tasks)                                                                                                            |
+| Задание №3  | [https://github.com/alkselsv-edu/css-positioning-tasks](https://github.com/alkselsv-edu/css-positioning-tasks)                                                                                                    |
+| Задание №4  | [https://github.com/alkselsv-edu/css-flex-tasks](https://github.com/alkselsv-edu/css-flex-tasks) / [https://codingfantasy.com/games/flexboxadventure/play](https://codingfantasy.com/games/flexboxadventure/play) |
+| Задание №5  | [https://github.com/alkselsv-edu/css-adaptive-tasks](https://github.com/alkselsv-edu/css-adaptive-tasks)                                                                                                          |
+| Задание №6  | [https://github.com/alkselsv-edu/css-grid-tasks](https://github.com/alkselsv-edu/css-grid-tasks) / [https://codingfantasy.com/games/css-grid-attack](https://codingfantasy.com/games/css-grid-attack)             |
+| Задание №7  | [https://github.com/alkselsv-edu/css-sass-tasks](https://github.com/alkselsv-edu/css-sass-tasks)                                                                                                                  |
+| Задание №8  | [https://github.com/alkselsv-edu/sass-programming-tasks](https://github.com/alkselsv-edu/sass-programming-tasks)                                                                                                  |
+| Задание №9  | [https://github.com/alkselsv-edu/css-transform-tasks](https://github.com/alkselsv-edu/css-transform-tasks)                                                                                                        |
+| Задание №10 | [https://github.com/alkselsv-edu/bootstrap-basic-tasks](https://github.com/alkselsv-edu/bootstrap-basic-tasks)                                                                                                    |
 
 
 ## 📋 Индивидуальное задание
