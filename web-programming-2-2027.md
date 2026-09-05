@@ -5,7 +5,8 @@
 
 | Название         | Ссылка                                                                           |
 | ---------------- | -------------------------------------------------------------------------------- |
-| Все презентации  | [https://disk.yandex.ru/d/w0lCrKk_AbRZDw](https://disk.yandex.ru/d/w0lCrKk_AbRZDw) |
+| Основные презентации  | [https://disk.yandex.ru/d/w0lCrKk_AbRZDw](https://disk.yandex.ru/d/w0lCrKk_AbRZDw) |
+| Дополнительные презентации  |  |
 
 
 ## ✏️ Домашние задания
