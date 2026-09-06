@@ -42,6 +42,7 @@
 
 | Название | Ссылка |
 | -------- | ------ |
+| Примерные темы и содержание | [assets/course-work-topics.md](assets/course-work-topics.md) |
 | Примерное содержание курсовой работы | [assets/course-work-outline.md](assets/course-work-outline.md) |
 | Требования к курсовой работе | [assets/course-work-requirements.md](assets/course-work-requirements.md) |
 | Требования к курсовой работе (заочники) | [assets/course-work-requirements-extramural.md](assets/course-work-requirements-extramural.md) |
