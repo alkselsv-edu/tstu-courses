@@ -13,7 +13,7 @@
 
 | № | Задание | Ссылка | Дедлайн №1 | Дедлайн №2 | Форма загрузки |
 | - | ------- | ------ | ---------- | ---------- | -------------- |
-| 1 | React | [https://github.com/alkselsv-edu/js-react-tasks](https://github.com/alkselsv-edu/js-react-tasks) |  |  | [https://forms.yandex.ru/u/6a9d25776d2d73ee4a0ab93f](https://forms.yandex.ru/u/6a9d25776d2d73ee4a0ab93f) |
+| 1 | React | [https://github.com/alkselsv-edu/js-react-tasks](https://github.com/alkselsv-edu/js-react-tasks) | 02.10.2026 | 09.10.2026 | [https://forms.yandex.ru/u/6a9d25776d2d73ee4a0ab93f](https://forms.yandex.ru/u/6a9d25776d2d73ee4a0ab93f) |
 | 2 | React Hooks | [https://github.com/alkselsv-edu/js-react-hooks-tasks](https://github.com/alkselsv-edu/js-react-hooks-tasks) |  |  | [https://forms.yandex.ru/u/6a9d25b4f47e73a63fd6b0c1](https://forms.yandex.ru/u/6a9d25b4f47e73a63fd6b0c1) |
 | 3 | Redux Toolkit | [https://github.com/alkselsv-edu/js-redux-toolkit-tasks](https://github.com/alkselsv-edu/js-redux-toolkit-tasks) |  |  | [https://forms.yandex.ru/u/6a9d25c6eb6146a758cfaf0f](https://forms.yandex.ru/u/6a9d25c6eb6146a758cfaf0f) |
 | 4 | HTTP API | [https://github.com/alkselsv-edu/http-api-tasks](https://github.com/alkselsv-edu/http-api-tasks) |  |  | [https://forms.yandex.ru/u/6a9d25d602848f9da4604af3](https://forms.yandex.ru/u/6a9d25d602848f9da4604af3) |
