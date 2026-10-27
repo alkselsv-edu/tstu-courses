@@ -14,11 +14,11 @@
 
 | №   | Задание                                                                  | Дедлайн №1 | Дедлайн №2 | Форма загрузки |
 | --- | ------------------------------------------------------------------------ | ---------- | ---------- | -------------- |
-| 1   | Модель угроз и наблюдаемость сетевого стенда                             |            |            | [https://forms.yandex.ru/u/6ab032a390fa7b89cfa6d2be](https://forms.yandex.ru/u/6ab032a390fa7b89cfa6d2be) |
-| 2   | Анализ сетевой атаки                                                     |            |            | [https://forms.yandex.ru/u/6ab032b75056904550ca9698](https://forms.yandex.ru/u/6ab032b75056904550ca9698) |
-| 3   | Исследование коммутации Ethernet и механизмов защиты таблицы MAC-адресов |            |            | [https://forms.yandex.ru/u/6ab032c950569044a0ca985b](https://forms.yandex.ru/u/6ab032c950569044a0ca985b) |
-| 4   | VLAN, транковые соединения и сегментация сети                            |            |            | [https://forms.yandex.ru/u/6ab032d784227c77a6dbd686](https://forms.yandex.ru/u/6ab032d784227c77a6dbd686) |
-| 5   | STP и воздействия на топологию второго уровня                            |            |            | [https://forms.yandex.ru/u/6ab032e502848f8dab642dd5](https://forms.yandex.ru/u/6ab032e502848f8dab642dd5) |
+| 1   | Модель угроз и наблюдаемость сетевого стенда                             | 18.10.2026 | 25.10.2026 | [https://forms.yandex.ru/u/6ab032a390fa7b89cfa6d2be](https://forms.yandex.ru/u/6ab032a390fa7b89cfa6d2be) |
+| 2   | Анализ сетевой атаки                                                     | 25.10.2026 | 01.11.2026 | [https://forms.yandex.ru/u/6ab032b75056904550ca9698](https://forms.yandex.ru/u/6ab032b75056904550ca9698) |
+| 3   | Исследование коммутации Ethernet и механизмов защиты таблицы MAC-адресов | 01.11.2026 | 08.11.2026 | [https://forms.yandex.ru/u/6ab032c950569044a0ca985b](https://forms.yandex.ru/u/6ab032c950569044a0ca985b) |
+| 4   | VLAN, транковые соединения и сегментация сети                            | 08.11.2026 | 15.11.2026 | [https://forms.yandex.ru/u/6ab032d784227c77a6dbd686](https://forms.yandex.ru/u/6ab032d784227c77a6dbd686) |
+| 5   | STP и воздействия на топологию второго уровня                            | 15.11.2026 | 22.11.2026 | [https://forms.yandex.ru/u/6ab032e502848f8dab642dd5](https://forms.yandex.ru/u/6ab032e502848f8dab642dd5) |
 | 6   | Исследование DHCPv4 и механизмов защиты параметров сети                  |            |            |                |
 | 7   | Исследование ARP и проверки источника IPv4                               |            |            |                |
 | 8   | Исследование IPv6 в локальной сети                                       |            |            |                |
